@@ -1,0 +1,6 @@
+streamlit
+pulp
+pandas
+langchain-groq
+langchain-core
+pydantic

@@ -1,0 +1,2001 @@
+Consultant,Skill,Hourly_Rate,Availability_Hours
+Consultant_0,MLOps,111,12
+Consultant_1,Azure Cloud,194,24
+Consultant_2,Computer Vision,179,40
+Consultant_3,MLOps,130,36
+Consultant_4,NLP,221,26
+Consultant_5,Computer Vision,234,15
+Consultant_6,Azure Cloud,160,16
+Consultant_7,MLOps,193,44
+Consultant_8,MLOps,155,18
+Consultant_9,Azure Cloud,169,15
+Consultant_10,MLOps,93,33
+Consultant_11,Computer Vision,96,20
+Consultant_12,Optimization,118,32
+Consultant_13,NLP,176,8
+Consultant_14,Computer Vision,237,11
+Consultant_15,MLOps,214,34
+Consultant_16,Azure Cloud,139,16
+Consultant_17,Azure Cloud,229,20
+Consultant_18,Computer Vision,234,12
+Consultant_19,NLP,123,16
+Consultant_20,MLOps,214,42
+Consultant_21,NLP,91,11
+Consultant_22,Data Engineering,188,13
+Consultant_23,NLP,93,18
+Consultant_24,Data Engineering,183,10
+Consultant_25,Optimization,185,17
+Consultant_26,Optimization,165,18
+Consultant_27,Computer Vision,80,22
+Consultant_28,NLP,131,29
+Consultant_29,Computer Vision,240,35
+Consultant_30,NLP,225,26
+Consultant_31,Data Engineering,225,39
+Consultant_32,NLP,96,27
+Consultant_33,NLP,182,9
+Consultant_34,MLOps,225,18
+Consultant_35,Data Engineering,223,20
+Consultant_36,MLOps,98,40
+Consultant_37,Computer Vision,84,6
+Consultant_38,Optimization,188,20
+Consultant_39,NLP,134,13
+Consultant_40,NLP,182,42
+Consultant_41,Azure Cloud,148,9
+Consultant_42,Computer Vision,143,13
+Consultant_43,Azure Cloud,164,8
+Consultant_44,Azure Cloud,86,7
+Consultant_45,MLOps,140,41
+Consultant_46,Optimization,203,28
+Consultant_47,NLP,196,44
+Consultant_48,Optimization,233,29
+Consultant_49,MLOps,207,9
+Consultant_50,Computer Vision,170,37
+Consultant_51,Computer Vision,87,15
+Consultant_52,NLP,136,32
+Consultant_53,MLOps,139,29
+Consultant_54,NLP,142,40
+Consultant_55,Optimization,137,27
+Consultant_56,Computer Vision,172,20
+Consultant_57,Data Engineering,110,21
+Consultant_58,NLP,237,13
+Consultant_59,Azure Cloud,85,37
+Consultant_60,Computer Vision,159,39
+Consultant_61,Azure Cloud,199,26
+Consultant_62,Optimization,132,10
+Consultant_63,Computer Vision,86,24
+Consultant_64,Computer Vision,204,23
+Consultant_65,Data Engineering,126,39
+Consultant_66,Optimization,220,38
+Consultant_67,MLOps,93,7
+Consultant_68,NLP,169,25
+Consultant_69,Azure Cloud,229,11
+Consultant_70,Computer Vision,154,39
+Consultant_71,Azure Cloud,100,6
+Consultant_72,Computer Vision,188,24
+Consultant_73,Data Engineering,199,17
+Consultant_74,Computer Vision,110,41
+Consultant_75,Optimization,196,9
+Consultant_76,MLOps,92,39
+Consultant_77,Computer Vision,132,18
+Consultant_78,Azure Cloud,120,9
+Consultant_79,Azure Cloud,213,18
+Consultant_80,Azure Cloud,191,10
+Consultant_81,Data Engineering,243,7
+Consultant_82,Computer Vision,101,17
+Consultant_83,NLP,150,28
+Consultant_84,Computer Vision,135,5
+Consultant_85,NLP,219,26
+Consultant_86,Optimization,155,40
+Consultant_87,NLP,158,21
+Consultant_88,Data Engineering,86,15
+Consultant_89,NLP,85,27
+Consultant_90,Optimization,153,25
+Consultant_91,NLP,92,8
+Consultant_92,Optimization,166,26
+Consultant_93,Azure Cloud,195,9
+Consultant_94,Optimization,149,34
+Consultant_95,Data Engineering,183,5
+Consultant_96,Computer Vision,186,31
+Consultant_97,NLP,110,34
+Consultant_98,MLOps,86,41
+Consultant_99,Optimization,203,9
+Consultant_100,Computer Vision,236,16
+Consultant_101,Optimization,182,28
+Consultant_102,NLP,94,17
+Consultant_103,MLOps,144,44
+Consultant_104,Data Engineering,162,10
+Consultant_105,Azure Cloud,124,25
+Consultant_106,Optimization,94,44
+Consultant_107,Computer Vision,173,27
+Consultant_108,Optimization,116,39
+Consultant_109,MLOps,130,27
+Consultant_110,NLP,189,6
+Consultant_111,Computer Vision,102,25
+Consultant_112,Data Engineering,147,37
+Consultant_113,MLOps,244,37
+Consultant_114,Optimization,151,6
+Consultant_115,Computer Vision,217,34
+Consultant_116,Data Engineering,130,32
+Consultant_117,Optimization,250,12
+Consultant_118,MLOps,152,9
+Consultant_119,Azure Cloud,185,32
+Consultant_120,Computer Vision,198,22
+Consultant_121,MLOps,182,13
+Consultant_122,Optimization,190,16
+Consultant_123,NLP,152,38
+Consultant_124,Data Engineering,209,42
+Consultant_125,Azure Cloud,117,33
+Consultant_126,NLP,247,40
+Consultant_127,NLP,114,21
+Consultant_128,Computer Vision,116,16
+Consultant_129,MLOps,165,15
+Consultant_130,Azure Cloud,80,36
+Consultant_131,Optimization,250,8
+Consultant_132,Azure Cloud,151,37
+Consultant_133,Computer Vision,118,44
+Consultant_134,Optimization,161,29
+Consultant_135,MLOps,219,41
+Consultant_136,Data Engineering,242,10
+Consultant_137,Data Engineering,149,34
+Consultant_138,NLP,237,32
+Consultant_139,Azure Cloud,89,5
+Consultant_140,MLOps,189,24
+Consultant_141,Computer Vision,82,11
+Consultant_142,MLOps,249,11
+Consultant_143,Optimization,184,11
+Consultant_144,Optimization,201,45
+Consultant_145,Optimization,168,8
+Consultant_146,NLP,179,27
+Consultant_147,NLP,93,5
+Consultant_148,Azure Cloud,168,19
+Consultant_149,Data Engineering,237,27
+Consultant_150,Computer Vision,211,6
+Consultant_151,Optimization,190,15
+Consultant_152,NLP,193,25
+Consultant_153,Computer Vision,183,6
+Consultant_154,MLOps,116,38
+Consultant_155,NLP,183,14
+Consultant_156,NLP,148,31
+Consultant_157,MLOps,203,8
+Consultant_158,Optimization,220,33
+Consultant_159,Data Engineering,141,18
+Consultant_160,Data Engineering,101,26
+Consultant_161,MLOps,222,29
+Consultant_162,Azure Cloud,109,20
+Consultant_163,Azure Cloud,94,15
+Consultant_164,Computer Vision,115,14
+Consultant_165,Data Engineering,160,16
+Consultant_166,Optimization,161,33
+Consultant_167,Optimization,133,6
+Consultant_168,Optimization,217,32
+Consultant_169,Optimization,166,12
+Consultant_170,Data Engineering,248,25
+Consultant_171,Azure Cloud,232,26
+Consultant_172,Azure Cloud,142,21
+Consultant_173,MLOps,132,37
+Consultant_174,MLOps,234,32
+Consultant_175,NLP,206,25
+Consultant_176,MLOps,231,30
+Consultant_177,NLP,178,29
+Consultant_178,Optimization,128,19
+Consultant_179,Computer Vision,137,33
+Consultant_180,Data Engineering,129,45
+Consultant_181,Computer Vision,159,31
+Consultant_182,Optimization,83,31
+Consultant_183,Optimization,135,25
+Consultant_184,Computer Vision,217,38
+Consultant_185,NLP,119,43
+Consultant_186,MLOps,176,9
+Consultant_187,NLP,128,41
+Consultant_188,Optimization,84,33
+Consultant_189,Azure Cloud,82,25
+Consultant_190,Optimization,239,8
+Consultant_191,Data Engineering,237,27
+Consultant_192,Computer Vision,132,6
+Consultant_193,Optimization,190,23
+Consultant_194,Azure Cloud,179,36
+Consultant_195,MLOps,84,31
+Consultant_196,Computer Vision,138,7
+Consultant_197,Computer Vision,189,8
+Consultant_198,Computer Vision,110,35
+Consultant_199,Computer Vision,191,42
+Consultant_200,MLOps,159,15
+Consultant_201,Azure Cloud,234,16
+Consultant_202,MLOps,230,37
+Consultant_203,NLP,108,23
+Consultant_204,Computer Vision,196,21
+Consultant_205,Computer Vision,232,17
+Consultant_206,Optimization,168,40
+Consultant_207,Optimization,232,39
+Consultant_208,Computer Vision,206,34
+Consultant_209,Azure Cloud,229,29
+Consultant_210,Computer Vision,226,22
+Consultant_211,Data Engineering,249,39
+Consultant_212,Azure Cloud,136,42
+Consultant_213,NLP,112,14
+Consultant_214,Azure Cloud,144,24
+Consultant_215,Azure Cloud,159,27
+Consultant_216,NLP,111,19
+Consultant_217,Computer Vision,134,28
+Consultant_218,NLP,196,21
+Consultant_219,NLP,245,18
+Consultant_220,Optimization,93,8
+Consultant_221,Optimization,163,28
+Consultant_222,Azure Cloud,117,29
+Consultant_223,Azure Cloud,209,12
+Consultant_224,Azure Cloud,129,23
+Consultant_225,NLP,177,43
+Consultant_226,Azure Cloud,128,36
+Consultant_227,Computer Vision,127,8
+Consultant_228,MLOps,102,12
+Consultant_229,MLOps,234,39
+Consultant_230,Computer Vision,229,30
+Consultant_231,MLOps,96,38
+Consultant_232,Optimization,238,22
+Consultant_233,NLP,229,6
+Consultant_234,MLOps,208,11
+Consultant_235,Data Engineering,215,17
+Consultant_236,Data Engineering,211,19
+Consultant_237,Azure Cloud,123,45
+Consultant_238,MLOps,164,40
+Consultant_239,Computer Vision,204,19
+Consultant_240,Data Engineering,151,22
+Consultant_241,Data Engineering,113,13
+Consultant_242,Azure Cloud,227,42
+Consultant_243,MLOps,201,31
+Consultant_244,Data Engineering,190,6
+Consultant_245,Computer Vision,139,12
+Consultant_246,Data Engineering,196,19
+Consultant_247,Data Engineering,104,27
+Consultant_248,Computer Vision,144,25
+Consultant_249,Data Engineering,176,41
+Consultant_250,Computer Vision,205,37
+Consultant_251,Azure Cloud,220,10
+Consultant_252,Data Engineering,163,27
+Consultant_253,Computer Vision,142,14
+Consultant_254,MLOps,132,36
+Consultant_255,Computer Vision,235,40
+Consultant_256,Data Engineering,155,24
+Consultant_257,Computer Vision,98,11
+Consultant_258,Data Engineering,100,17
+Consultant_259,Azure Cloud,245,35
+Consultant_260,Data Engineering,85,22
+Consultant_261,MLOps,217,38
+Consultant_262,MLOps,183,32
+Consultant_263,Data Engineering,84,9
+Consultant_264,MLOps,163,23
+Consultant_265,Data Engineering,154,14
+Consultant_266,Optimization,228,20
+Consultant_267,Computer Vision,235,28
+Consultant_268,NLP,90,37
+Consultant_269,Optimization,204,45
+Consultant_270,Data Engineering,156,25
+Consultant_271,MLOps,190,16
+Consultant_272,Optimization,129,31
+Consultant_273,Data Engineering,140,9
+Consultant_274,MLOps,195,31
+Consultant_275,NLP,215,17
+Consultant_276,Azure Cloud,104,9
+Consultant_277,Optimization,215,22
+Consultant_278,NLP,161,15
+Consultant_279,Optimization,233,20
+Consultant_280,MLOps,207,25
+Consultant_281,Data Engineering,148,24
+Consultant_282,MLOps,189,32
+Consultant_283,MLOps,222,30
+Consultant_284,Data Engineering,185,10
+Consultant_285,Computer Vision,124,19
+Consultant_286,NLP,90,34
+Consultant_287,Optimization,90,33
+Consultant_288,NLP,232,22
+Consultant_289,Computer Vision,238,44
+Consultant_290,Optimization,234,7
+Consultant_291,MLOps,243,28
+Consultant_292,MLOps,137,5
+Consultant_293,Computer Vision,92,37
+Consultant_294,MLOps,114,44
+Consultant_295,Data Engineering,130,45
+Consultant_296,Optimization,185,9
+Consultant_297,Optimization,241,37
+Consultant_298,Data Engineering,176,8
+Consultant_299,MLOps,219,11
+Consultant_300,Optimization,154,15
+Consultant_301,Computer Vision,91,26
+Consultant_302,NLP,241,24
+Consultant_303,Azure Cloud,238,20
+Consultant_304,NLP,243,12
+Consultant_305,NLP,131,17
+Consultant_306,MLOps,203,35
+Consultant_307,Computer Vision,96,33
+Consultant_308,NLP,211,25
+Consultant_309,Optimization,151,37
+Consultant_310,Azure Cloud,182,10
+Consultant_311,NLP,172,24
+Consultant_312,Optimization,112,9
+Consultant_313,NLP,137,24
+Consultant_314,Optimization,241,6
+Consultant_315,Computer Vision,147,10
+Consultant_316,Data Engineering,144,21
+Consultant_317,Computer Vision,153,38
+Consultant_318,MLOps,232,42
+Consultant_319,Computer Vision,130,18
+Consultant_320,Optimization,212,32
+Consultant_321,Data Engineering,96,33
+Consultant_322,MLOps,167,26
+Consultant_323,NLP,110,7
+Consultant_324,Azure Cloud,242,40
+Consultant_325,Optimization,124,6
+Consultant_326,Azure Cloud,82,26
+Consultant_327,Azure Cloud,129,45
+Consultant_328,Computer Vision,160,37
+Consultant_329,Data Engineering,106,39
+Consultant_330,Computer Vision,124,28
+Consultant_331,Optimization,220,12
+Consultant_332,Azure Cloud,242,20
+Consultant_333,Computer Vision,235,13
+Consultant_334,Computer Vision,88,5
+Consultant_335,Computer Vision,156,6
+Consultant_336,NLP,227,37
+Consultant_337,Azure Cloud,156,5
+Consultant_338,MLOps,123,33
+Consultant_339,NLP,196,5
+Consultant_340,Optimization,235,43
+Consultant_341,Data Engineering,140,20
+Consultant_342,Azure Cloud,197,43
+Consultant_343,Computer Vision,101,23
+Consultant_344,Optimization,114,35
+Consultant_345,Optimization,108,29
+Consultant_346,Computer Vision,85,42
+Consultant_347,Azure Cloud,231,44
+Consultant_348,Data Engineering,99,7
+Consultant_349,MLOps,105,7
+Consultant_350,Data Engineering,162,28
+Consultant_351,MLOps,243,38
+Consultant_352,Computer Vision,120,7
+Consultant_353,Optimization,127,36
+Consultant_354,Optimization,225,25
+Consultant_355,Data Engineering,220,27
+Consultant_356,Optimization,89,31
+Consultant_357,Azure Cloud,226,43
+Consultant_358,NLP,225,36
+Consultant_359,Optimization,175,40
+Consultant_360,Data Engineering,87,37
+Consultant_361,Computer Vision,83,8
+Consultant_362,Optimization,188,32
+Consultant_363,NLP,165,37
+Consultant_364,Azure Cloud,200,6
+Consultant_365,Data Engineering,248,25
+Consultant_366,Data Engineering,221,19
+Consultant_367,MLOps,185,10
+Consultant_368,NLP,141,39
+Consultant_369,NLP,101,32
+Consultant_370,Azure Cloud,183,8
+Consultant_371,NLP,220,6
+Consultant_372,Optimization,183,19
+Consultant_373,Data Engineering,135,44
+Consultant_374,Azure Cloud,141,45
+Consultant_375,MLOps,89,15
+Consultant_376,Optimization,201,6
+Consultant_377,Data Engineering,84,27
+Consultant_378,MLOps,224,20
+Consultant_379,Optimization,152,27
+Consultant_380,Computer Vision,97,12
+Consultant_381,Azure Cloud,113,29
+Consultant_382,Computer Vision,92,29
+Consultant_383,NLP,128,24
+Consultant_384,Data Engineering,87,32
+Consultant_385,MLOps,183,20
+Consultant_386,Computer Vision,122,31
+Consultant_387,Data Engineering,208,33
+Consultant_388,Data Engineering,183,16
+Consultant_389,Computer Vision,201,21
+Consultant_390,Optimization,105,8
+Consultant_391,Azure Cloud,199,35
+Consultant_392,Optimization,101,43
+Consultant_393,Azure Cloud,123,44
+Consultant_394,Data Engineering,96,24
+Consultant_395,Data Engineering,153,17
+Consultant_396,Data Engineering,146,37
+Consultant_397,Azure Cloud,205,7
+Consultant_398,Optimization,236,16
+Consultant_399,MLOps,233,29
+Consultant_400,Computer Vision,229,6
+Consultant_401,NLP,193,27
+Consultant_402,Azure Cloud,234,19
+Consultant_403,Optimization,214,17
+Consultant_404,NLP,107,12
+Consultant_405,MLOps,234,9
+Consultant_406,NLP,151,28
+Consultant_407,MLOps,176,11
+Consultant_408,NLP,248,18
+Consultant_409,Data Engineering,212,27
+Consultant_410,Computer Vision,99,23
+Consultant_411,Computer Vision,171,14
+Consultant_412,Computer Vision,194,12
+Consultant_413,Data Engineering,192,41
+Consultant_414,Optimization,182,27
+Consultant_415,Data Engineering,238,44
+Consultant_416,MLOps,212,29
+Consultant_417,NLP,94,16
+Consultant_418,NLP,249,31
+Consultant_419,Optimization,187,29
+Consultant_420,NLP,172,8
+Consultant_421,Azure Cloud,224,16
+Consultant_422,Azure Cloud,202,19
+Consultant_423,Data Engineering,242,21
+Consultant_424,Optimization,87,37
+Consultant_425,Computer Vision,140,29
+Consultant_426,Azure Cloud,226,28
+Consultant_427,NLP,204,19
+Consultant_428,NLP,149,40
+Consultant_429,Azure Cloud,239,38
+Consultant_430,Data Engineering,220,23
+Consultant_431,Computer Vision,135,43
+Consultant_432,Azure Cloud,228,10
+Consultant_433,Data Engineering,226,28
+Consultant_434,NLP,181,40
+Consultant_435,MLOps,130,5
+Consultant_436,Optimization,174,7
+Consultant_437,Computer Vision,120,18
+Consultant_438,Computer Vision,210,15
+Consultant_439,Optimization,108,28
+Consultant_440,MLOps,183,15
+Consultant_441,MLOps,115,25
+Consultant_442,Computer Vision,123,12
+Consultant_443,Data Engineering,170,18
+Consultant_444,NLP,219,27
+Consultant_445,Computer Vision,166,22
+Consultant_446,Azure Cloud,107,25
+Consultant_447,MLOps,81,9
+Consultant_448,Azure Cloud,225,34
+Consultant_449,Optimization,250,26
+Consultant_450,MLOps,131,42
+Consultant_451,NLP,208,15
+Consultant_452,NLP,98,25
+Consultant_453,MLOps,171,32
+Consultant_454,Data Engineering,129,44
+Consultant_455,Computer Vision,141,23
+Consultant_456,MLOps,157,23
+Consultant_457,Azure Cloud,100,23
+Consultant_458,NLP,160,45
+Consultant_459,Azure Cloud,144,13
+Consultant_460,Optimization,207,22
+Consultant_461,Optimization,233,14
+Consultant_462,Data Engineering,218,36
+Consultant_463,Data Engineering,101,27
+Consultant_464,Data Engineering,115,18
+Consultant_465,Azure Cloud,107,45
+Consultant_466,Computer Vision,166,45
+Consultant_467,Computer Vision,231,10
+Consultant_468,Data Engineering,185,11
+Consultant_469,Azure Cloud,164,24
+Consultant_470,Optimization,219,39
+Consultant_471,Computer Vision,160,39
+Consultant_472,Data Engineering,187,9
+Consultant_473,Data Engineering,209,7
+Consultant_474,MLOps,153,31
+Consultant_475,Computer Vision,219,15
+Consultant_476,Computer Vision,175,6
+Consultant_477,Azure Cloud,166,45
+Consultant_478,NLP,149,38
+Consultant_479,MLOps,104,8
+Consultant_480,Optimization,109,9
+Consultant_481,Data Engineering,105,20
+Consultant_482,Azure Cloud,207,9
+Consultant_483,NLP,233,42
+Consultant_484,Data Engineering,113,43
+Consultant_485,Data Engineering,103,20
+Consultant_486,Data Engineering,161,32
+Consultant_487,Computer Vision,141,27
+Consultant_488,NLP,176,25
+Consultant_489,MLOps,109,41
+Consultant_490,Computer Vision,87,16
+Consultant_491,Computer Vision,113,41
+Consultant_492,MLOps,93,19
+Consultant_493,Optimization,228,8
+Consultant_494,MLOps,183,6
+Consultant_495,Computer Vision,192,19
+Consultant_496,MLOps,245,21
+Consultant_497,MLOps,119,18
+Consultant_498,NLP,101,29
+Consultant_499,NLP,82,45
+Consultant_500,Computer Vision,195,30
+Consultant_501,Azure Cloud,89,39
+Consultant_502,Data Engineering,236,14
+Consultant_503,Data Engineering,237,31
+Consultant_504,MLOps,120,7
+Consultant_505,Data Engineering,192,24
+Consultant_506,Azure Cloud,247,15
+Consultant_507,Data Engineering,195,18
+Consultant_508,Data Engineering,112,31
+Consultant_509,Optimization,129,45
+Consultant_510,MLOps,227,39
+Consultant_511,Data Engineering,182,20
+Consultant_512,NLP,178,14
+Consultant_513,Data Engineering,192,36
+Consultant_514,NLP,237,35
+Consultant_515,MLOps,248,21
+Consultant_516,NLP,122,13
+Consultant_517,Data Engineering,139,27
+Consultant_518,MLOps,91,37
+Consultant_519,Computer Vision,167,17
+Consultant_520,NLP,151,40
+Consultant_521,Data Engineering,171,6
+Consultant_522,MLOps,206,33
+Consultant_523,Data Engineering,211,8
+Consultant_524,Computer Vision,201,43
+Consultant_525,MLOps,139,17
+Consultant_526,Computer Vision,142,27
+Consultant_527,MLOps,199,22
+Consultant_528,Data Engineering,194,45
+Consultant_529,Optimization,103,40
+Consultant_530,Data Engineering,196,19
+Consultant_531,Azure Cloud,168,21
+Consultant_532,Computer Vision,111,33
+Consultant_533,MLOps,194,13
+Consultant_534,Optimization,107,25
+Consultant_535,NLP,148,32
+Consultant_536,Azure Cloud,245,26
+Consultant_537,Azure Cloud,175,32
+Consultant_538,MLOps,199,9
+Consultant_539,Azure Cloud,207,33
+Consultant_540,MLOps,177,33
+Consultant_541,NLP,80,36
+Consultant_542,Azure Cloud,155,15
+Consultant_543,MLOps,208,30
+Consultant_544,MLOps,83,8
+Consultant_545,Computer Vision,103,35
+Consultant_546,MLOps,222,6
+Consultant_547,Computer Vision,181,35
+Consultant_548,Data Engineering,128,8
+Consultant_549,MLOps,156,39
+Consultant_550,Computer Vision,144,28
+Consultant_551,Computer Vision,132,15
+Consultant_552,Data Engineering,101,27
+Consultant_553,Computer Vision,117,9
+Consultant_554,Azure Cloud,162,42
+Consultant_555,Data Engineering,213,30
+Consultant_556,NLP,222,8
+Consultant_557,Optimization,185,28
+Consultant_558,MLOps,191,6
+Consultant_559,Optimization,208,14
+Consultant_560,Azure Cloud,236,8
+Consultant_561,NLP,210,11
+Consultant_562,Optimization,176,10
+Consultant_563,Data Engineering,137,18
+Consultant_564,MLOps,124,35
+Consultant_565,Optimization,232,5
+Consultant_566,MLOps,81,18
+Consultant_567,Computer Vision,200,42
+Consultant_568,Computer Vision,200,21
+Consultant_569,MLOps,121,44
+Consultant_570,Data Engineering,161,44
+Consultant_571,NLP,126,19
+Consultant_572,Computer Vision,177,20
+Consultant_573,Azure Cloud,207,15
+Consultant_574,NLP,242,38
+Consultant_575,Optimization,147,23
+Consultant_576,MLOps,100,25
+Consultant_577,Data Engineering,208,11
+Consultant_578,Computer Vision,133,35
+Consultant_579,Computer Vision,187,21
+Consultant_580,NLP,82,42
+Consultant_581,NLP,94,32
+Consultant_582,MLOps,236,24
+Consultant_583,Optimization,90,26
+Consultant_584,NLP,179,23
+Consultant_585,Computer Vision,159,44
+Consultant_586,MLOps,157,24
+Consultant_587,NLP,146,35
+Consultant_588,MLOps,115,9
+Consultant_589,Optimization,179,32
+Consultant_590,NLP,249,23
+Consultant_591,NLP,130,44
+Consultant_592,NLP,91,23
+Consultant_593,Azure Cloud,111,25
+Consultant_594,Azure Cloud,212,6
+Consultant_595,Optimization,211,5
+Consultant_596,MLOps,139,31
+Consultant_597,NLP,114,37
+Consultant_598,NLP,240,13
+Consultant_599,Computer Vision,124,42
+Consultant_600,Optimization,181,9
+Consultant_601,Data Engineering,143,32
+Consultant_602,Optimization,230,36
+Consultant_603,Optimization,153,9
+Consultant_604,MLOps,163,31
+Consultant_605,Data Engineering,118,37
+Consultant_606,Computer Vision,226,29
+Consultant_607,Optimization,250,33
+Consultant_608,Computer Vision,106,7
+Consultant_609,Computer Vision,167,11
+Consultant_610,Data Engineering,157,8
+Consultant_611,MLOps,137,26
+Consultant_612,MLOps,235,29
+Consultant_613,Computer Vision,236,31
+Consultant_614,Azure Cloud,213,11
+Consultant_615,Optimization,212,22
+Consultant_616,Computer Vision,130,39
+Consultant_617,Azure Cloud,91,8
+Consultant_618,Azure Cloud,184,11
+Consultant_619,Optimization,174,29
+Consultant_620,MLOps,166,31
+Consultant_621,Optimization,206,16
+Consultant_622,Azure Cloud,100,39
+Consultant_623,Azure Cloud,181,17
+Consultant_624,NLP,144,11
+Consultant_625,Data Engineering,236,30
+Consultant_626,Computer Vision,182,30
+Consultant_627,Computer Vision,116,10
+Consultant_628,MLOps,242,35
+Consultant_629,Computer Vision,122,29
+Consultant_630,Data Engineering,232,8
+Consultant_631,MLOps,202,26
+Consultant_632,MLOps,177,23
+Consultant_633,Data Engineering,153,9
+Consultant_634,Data Engineering,116,29
+Consultant_635,Azure Cloud,181,35
+Consultant_636,Optimization,175,40
+Consultant_637,Computer Vision,165,5
+Consultant_638,MLOps,186,24
+Consultant_639,Computer Vision,230,33
+Consultant_640,Data Engineering,212,7
+Consultant_641,NLP,185,25
+Consultant_642,Azure Cloud,147,9
+Consultant_643,Data Engineering,99,25
+Consultant_644,NLP,208,5
+Consultant_645,Optimization,221,18
+Consultant_646,Azure Cloud,208,7
+Consultant_647,MLOps,126,20
+Consultant_648,Optimization,112,30
+Consultant_649,Data Engineering,123,40
+Consultant_650,Data Engineering,243,5
+Consultant_651,Data Engineering,114,31
+Consultant_652,Data Engineering,181,31
+Consultant_653,MLOps,201,6
+Consultant_654,Data Engineering,165,20
+Consultant_655,NLP,200,29
+Consultant_656,Azure Cloud,219,29
+Consultant_657,NLP,147,35
+Consultant_658,NLP,115,26
+Consultant_659,Data Engineering,199,6
+Consultant_660,Optimization,173,15
+Consultant_661,Data Engineering,176,32
+Consultant_662,Computer Vision,126,34
+Consultant_663,NLP,191,41
+Consultant_664,Data Engineering,140,22
+Consultant_665,Computer Vision,131,41
+Consultant_666,Azure Cloud,98,34
+Consultant_667,MLOps,238,42
+Consultant_668,Data Engineering,125,26
+Consultant_669,Azure Cloud,246,39
+Consultant_670,Optimization,159,39
+Consultant_671,Optimization,157,24
+Consultant_672,Computer Vision,199,22
+Consultant_673,Data Engineering,147,34
+Consultant_674,MLOps,84,21
+Consultant_675,NLP,129,28
+Consultant_676,Optimization,142,17
+Consultant_677,Computer Vision,162,17
+Consultant_678,MLOps,125,7
+Consultant_679,MLOps,101,8
+Consultant_680,Optimization,140,19
+Consultant_681,Computer Vision,84,16
+Consultant_682,Data Engineering,175,36
+Consultant_683,Data Engineering,150,29
+Consultant_684,Azure Cloud,190,41
+Consultant_685,NLP,108,7
+Consultant_686,Optimization,110,9
+Consultant_687,Data Engineering,229,42
+Consultant_688,Optimization,205,5
+Consultant_689,NLP,200,12
+Consultant_690,Computer Vision,221,39
+Consultant_691,Optimization,141,13
+Consultant_692,Optimization,184,10
+Consultant_693,Computer Vision,113,29
+Consultant_694,Data Engineering,161,26
+Consultant_695,MLOps,112,9
+Consultant_696,MLOps,99,13
+Consultant_697,Computer Vision,173,11
+Consultant_698,Computer Vision,205,21
+Consultant_699,Azure Cloud,130,34
+Consultant_700,Computer Vision,103,7
+Consultant_701,Data Engineering,149,32
+Consultant_702,Data Engineering,91,44
+Consultant_703,Azure Cloud,171,30
+Consultant_704,NLP,81,30
+Consultant_705,Azure Cloud,230,31
+Consultant_706,Optimization,176,21
+Consultant_707,Data Engineering,206,8
+Consultant_708,Computer Vision,109,19
+Consultant_709,MLOps,206,29
+Consultant_710,Data Engineering,120,26
+Consultant_711,Azure Cloud,211,18
+Consultant_712,MLOps,184,20
+Consultant_713,Optimization,190,26
+Consultant_714,MLOps,91,9
+Consultant_715,Optimization,93,43
+Consultant_716,Optimization,183,18
+Consultant_717,Optimization,240,36
+Consultant_718,MLOps,114,23
+Consultant_719,Data Engineering,246,15
+Consultant_720,Data Engineering,191,19
+Consultant_721,MLOps,203,42
+Consultant_722,Data Engineering,168,12
+Consultant_723,Computer Vision,166,11
+Consultant_724,Azure Cloud,117,31
+Consultant_725,NLP,246,12
+Consultant_726,Computer Vision,107,44
+Consultant_727,NLP,165,6
+Consultant_728,Data Engineering,219,29
+Consultant_729,Data Engineering,207,29
+Consultant_730,NLP,109,33
+Consultant_731,MLOps,96,13
+Consultant_732,Azure Cloud,242,14
+Consultant_733,Computer Vision,218,40
+Consultant_734,NLP,197,13
+Consultant_735,Computer Vision,111,36
+Consultant_736,NLP,127,40
+Consultant_737,Azure Cloud,129,34
+Consultant_738,Optimization,187,12
+Consultant_739,Azure Cloud,239,33
+Consultant_740,NLP,204,41
+Consultant_741,Computer Vision,147,39
+Consultant_742,Azure Cloud,204,7
+Consultant_743,Data Engineering,115,28
+Consultant_744,Data Engineering,85,19
+Consultant_745,Azure Cloud,108,16
+Consultant_746,Azure Cloud,190,30
+Consultant_747,Azure Cloud,195,38
+Consultant_748,NLP,87,22
+Consultant_749,Optimization,132,22
+Consultant_750,Computer Vision,126,14
+Consultant_751,Azure Cloud,250,9
+Consultant_752,Computer Vision,123,23
+Consultant_753,Azure Cloud,161,26
+Consultant_754,MLOps,171,44
+Consultant_755,Computer Vision,157,36
+Consultant_756,Optimization,171,26
+Consultant_757,Computer Vision,95,30
+Consultant_758,Azure Cloud,195,27
+Consultant_759,Optimization,188,28
+Consultant_760,Azure Cloud,106,5
+Consultant_761,Azure Cloud,230,34
+Consultant_762,Computer Vision,208,12
+Consultant_763,Optimization,248,11
+Consultant_764,Data Engineering,180,20
+Consultant_765,Data Engineering,217,27
+Consultant_766,NLP,201,12
+Consultant_767,Computer Vision,112,30
+Consultant_768,Computer Vision,155,45
+Consultant_769,Optimization,194,10
+Consultant_770,Optimization,194,29
+Consultant_771,MLOps,245,31
+Consultant_772,Optimization,216,41
+Consultant_773,NLP,86,44
+Consultant_774,Azure Cloud,152,14
+Consultant_775,Azure Cloud,100,31
+Consultant_776,Azure Cloud,106,22
+Consultant_777,Optimization,148,9
+Consultant_778,Azure Cloud,132,25
+Consultant_779,Data Engineering,210,8
+Consultant_780,Azure Cloud,241,6
+Consultant_781,Data Engineering,204,38
+Consultant_782,Optimization,153,32
+Consultant_783,MLOps,94,45
+Consultant_784,NLP,117,43
+Consultant_785,NLP,145,33
+Consultant_786,NLP,125,16
+Consultant_787,Azure Cloud,130,41
+Consultant_788,Optimization,211,24
+Consultant_789,Data Engineering,164,30
+Consultant_790,Computer Vision,243,13
+Consultant_791,MLOps,243,28
+Consultant_792,MLOps,87,16
+Consultant_793,Computer Vision,179,31
+Consultant_794,Data Engineering,98,23
+Consultant_795,Data Engineering,214,11
+Consultant_796,Optimization,186,5
+Consultant_797,Data Engineering,146,9
+Consultant_798,MLOps,86,34
+Consultant_799,MLOps,137,18
+Consultant_800,Computer Vision,223,38
+Consultant_801,Data Engineering,119,20
+Consultant_802,NLP,194,22
+Consultant_803,MLOps,148,44
+Consultant_804,Azure Cloud,88,26
+Consultant_805,Data Engineering,223,23
+Consultant_806,NLP,104,22
+Consultant_807,MLOps,146,34
+Consultant_808,Data Engineering,138,24
+Consultant_809,Azure Cloud,163,42
+Consultant_810,Data Engineering,139,26
+Consultant_811,Optimization,89,6
+Consultant_812,Computer Vision,143,33
+Consultant_813,MLOps,168,24
+Consultant_814,MLOps,202,38
+Consultant_815,Data Engineering,222,26
+Consultant_816,Data Engineering,150,12
+Consultant_817,Optimization,135,35
+Consultant_818,MLOps,200,11
+Consultant_819,Optimization,163,41
+Consultant_820,Optimization,176,27
+Consultant_821,MLOps,225,45
+Consultant_822,NLP,154,28
+Consultant_823,Computer Vision,123,23
+Consultant_824,MLOps,202,39
+Consultant_825,MLOps,132,13
+Consultant_826,Azure Cloud,112,27
+Consultant_827,MLOps,213,36
+Consultant_828,MLOps,114,23
+Consultant_829,Data Engineering,176,5
+Consultant_830,Computer Vision,87,41
+Consultant_831,Computer Vision,123,40
+Consultant_832,MLOps,152,20
+Consultant_833,Optimization,114,20
+Consultant_834,Azure Cloud,133,44
+Consultant_835,MLOps,92,17
+Consultant_836,Azure Cloud,191,8
+Consultant_837,MLOps,186,42
+Consultant_838,NLP,145,26
+Consultant_839,Data Engineering,103,15
+Consultant_840,Computer Vision,193,5
+Consultant_841,NLP,186,19
+Consultant_842,Optimization,180,45
+Consultant_843,NLP,249,24
+Consultant_844,Computer Vision,154,30
+Consultant_845,Optimization,90,10
+Consultant_846,Data Engineering,84,16
+Consultant_847,NLP,132,27
+Consultant_848,Data Engineering,151,22
+Consultant_849,Computer Vision,143,35
+Consultant_850,Optimization,148,17
+Consultant_851,Optimization,244,26
+Consultant_852,NLP,246,15
+Consultant_853,Azure Cloud,104,18
+Consultant_854,Data Engineering,211,5
+Consultant_855,NLP,136,26
+Consultant_856,Data Engineering,154,32
+Consultant_857,Optimization,124,33
+Consultant_858,Data Engineering,208,32
+Consultant_859,NLP,124,38
+Consultant_860,MLOps,191,8
+Consultant_861,MLOps,175,45
+Consultant_862,Azure Cloud,230,21
+Consultant_863,NLP,240,23
+Consultant_864,Azure Cloud,84,12
+Consultant_865,Data Engineering,94,12
+Consultant_866,NLP,157,28
+Consultant_867,Azure Cloud,185,14
+Consultant_868,Optimization,220,20
+Consultant_869,Computer Vision,111,13
+Consultant_870,MLOps,102,14
+Consultant_871,MLOps,132,5
+Consultant_872,Optimization,136,10
+Consultant_873,MLOps,245,30
+Consultant_874,MLOps,93,43
+Consultant_875,MLOps,152,44
+Consultant_876,Computer Vision,200,37
+Consultant_877,NLP,84,26
+Consultant_878,Computer Vision,152,35
+Consultant_879,Optimization,147,26
+Consultant_880,MLOps,157,35
+Consultant_881,Optimization,156,32
+Consultant_882,NLP,170,10
+Consultant_883,Data Engineering,165,13
+Consultant_884,Optimization,188,16
+Consultant_885,Azure Cloud,129,13
+Consultant_886,MLOps,232,22
+Consultant_887,Azure Cloud,199,15
+Consultant_888,Optimization,184,20
+Consultant_889,Data Engineering,113,34
+Consultant_890,NLP,144,25
+Consultant_891,NLP,203,8
+Consultant_892,Computer Vision,148,19
+Consultant_893,Optimization,220,21
+Consultant_894,MLOps,151,45
+Consultant_895,Optimization,137,25
+Consultant_896,Data Engineering,213,36
+Consultant_897,NLP,110,18
+Consultant_898,Computer Vision,83,31
+Consultant_899,Azure Cloud,168,19
+Consultant_900,Optimization,96,32
+Consultant_901,Data Engineering,202,15
+Consultant_902,NLP,112,30
+Consultant_903,Data Engineering,99,43
+Consultant_904,Data Engineering,213,33
+Consultant_905,Computer Vision,224,38
+Consultant_906,MLOps,118,8
+Consultant_907,NLP,171,8
+Consultant_908,MLOps,164,41
+Consultant_909,Computer Vision,135,34
+Consultant_910,Azure Cloud,212,42
+Consultant_911,Computer Vision,154,17
+Consultant_912,Azure Cloud,80,34
+Consultant_913,Computer Vision,230,33
+Consultant_914,Azure Cloud,143,8
+Consultant_915,Optimization,208,43
+Consultant_916,Data Engineering,145,15
+Consultant_917,NLP,85,37
+Consultant_918,Computer Vision,89,22
+Consultant_919,Computer Vision,169,30
+Consultant_920,Optimization,131,39
+Consultant_921,Optimization,245,38
+Consultant_922,Azure Cloud,171,39
+Consultant_923,Optimization,164,26
+Consultant_924,NLP,207,25
+Consultant_925,Computer Vision,202,21
+Consultant_926,MLOps,240,16
+Consultant_927,NLP,243,31
+Consultant_928,Optimization,225,17
+Consultant_929,Data Engineering,84,10
+Consultant_930,Optimization,216,38
+Consultant_931,Computer Vision,147,9
+Consultant_932,Data Engineering,97,12
+Consultant_933,NLP,238,31
+Consultant_934,Optimization,207,10
+Consultant_935,Optimization,93,28
+Consultant_936,Computer Vision,136,11
+Consultant_937,Data Engineering,177,6
+Consultant_938,MLOps,169,28
+Consultant_939,Computer Vision,227,31
+Consultant_940,Optimization,241,15
+Consultant_941,Azure Cloud,231,8
+Consultant_942,Azure Cloud,112,35
+Consultant_943,Optimization,240,28
+Consultant_944,NLP,228,15
+Consultant_945,Azure Cloud,127,16
+Consultant_946,Azure Cloud,155,28
+Consultant_947,Computer Vision,181,15
+Consultant_948,Azure Cloud,247,18
+Consultant_949,Optimization,229,5
+Consultant_950,Data Engineering,183,43
+Consultant_951,NLP,198,13
+Consultant_952,MLOps,131,36
+Consultant_953,MLOps,213,29
+Consultant_954,NLP,161,36
+Consultant_955,Data Engineering,110,38
+Consultant_956,Azure Cloud,83,25
+Consultant_957,MLOps,167,17
+Consultant_958,Azure Cloud,176,17
+Consultant_959,MLOps,194,9
+Consultant_960,Data Engineering,179,39
+Consultant_961,MLOps,139,25
+Consultant_962,Optimization,210,7
+Consultant_963,Computer Vision,195,22
+Consultant_964,MLOps,105,17
+Consultant_965,Data Engineering,101,36
+Consultant_966,Azure Cloud,146,16
+Consultant_967,Computer Vision,177,33
+Consultant_968,Data Engineering,215,16
+Consultant_969,MLOps,106,38
+Consultant_970,MLOps,138,16
+Consultant_971,Azure Cloud,178,20
+Consultant_972,MLOps,163,36
+Consultant_973,Computer Vision,165,24
+Consultant_974,Data Engineering,247,40
+Consultant_975,Data Engineering,87,13
+Consultant_976,Azure Cloud,136,29
+Consultant_977,Azure Cloud,212,41
+Consultant_978,Computer Vision,138,37
+Consultant_979,MLOps,147,35
+Consultant_980,Data Engineering,157,38
+Consultant_981,Computer Vision,190,19
+Consultant_982,Computer Vision,208,17
+Consultant_983,Azure Cloud,138,24
+Consultant_984,Optimization,178,11
+Consultant_985,MLOps,151,20
+Consultant_986,MLOps,144,7
+Consultant_987,Optimization,105,12
+Consultant_988,Optimization,163,25
+Consultant_989,MLOps,122,42
+Consultant_990,NLP,123,41
+Consultant_991,Data Engineering,117,31
+Consultant_992,Data Engineering,107,7
+Consultant_993,Azure Cloud,100,14
+Consultant_994,Computer Vision,227,13
+Consultant_995,MLOps,161,28
+Consultant_996,NLP,150,33
+Consultant_997,MLOps,95,22
+Consultant_998,MLOps,161,27
+Consultant_999,Computer Vision,105,43
+Consultant_1000,NLP,115,22
+Consultant_1001,MLOps,228,35
+Consultant_1002,Computer Vision,137,15
+Consultant_1003,Computer Vision,115,16
+Consultant_1004,Computer Vision,87,39
+Consultant_1005,Computer Vision,225,20
+Consultant_1006,Computer Vision,210,27
+Consultant_1007,NLP,239,33
+Consultant_1008,Optimization,120,27
+Consultant_1009,MLOps,157,24
+Consultant_1010,Azure Cloud,128,24
+Consultant_1011,Azure Cloud,107,10
+Consultant_1012,Data Engineering,133,28
+Consultant_1013,Data Engineering,240,38
+Consultant_1014,Optimization,121,40
+Consultant_1015,Data Engineering,136,18
+Consultant_1016,Data Engineering,91,9
+Consultant_1017,Optimization,86,6
+Consultant_1018,Azure Cloud,183,19
+Consultant_1019,Computer Vision,134,20
+Consultant_1020,Azure Cloud,181,37
+Consultant_1021,Azure Cloud,190,33
+Consultant_1022,NLP,212,8
+Consultant_1023,Computer Vision,146,35
+Consultant_1024,Data Engineering,235,33
+Consultant_1025,NLP,167,41
+Consultant_1026,Optimization,193,13
+Consultant_1027,Data Engineering,197,20
+Consultant_1028,Data Engineering,83,35
+Consultant_1029,NLP,236,20
+Consultant_1030,Azure Cloud,82,45
+Consultant_1031,Computer Vision,173,34
+Consultant_1032,MLOps,235,12
+Consultant_1033,Azure Cloud,246,44
+Consultant_1034,MLOps,250,17
+Consultant_1035,Optimization,249,14
+Consultant_1036,Computer Vision,149,14
+Consultant_1037,MLOps,250,10
+Consultant_1038,MLOps,99,42
+Consultant_1039,Azure Cloud,132,41
+Consultant_1040,NLP,192,43
+Consultant_1041,Data Engineering,158,35
+Consultant_1042,MLOps,98,12
+Consultant_1043,NLP,244,44
+Consultant_1044,Azure Cloud,148,10
+Consultant_1045,Optimization,242,7
+Consultant_1046,Azure Cloud,122,33
+Consultant_1047,NLP,179,13
+Consultant_1048,Data Engineering,192,15
+Consultant_1049,NLP,215,16
+Consultant_1050,Data Engineering,152,33
+Consultant_1051,Azure Cloud,86,43
+Consultant_1052,NLP,132,33
+Consultant_1053,MLOps,221,17
+Consultant_1054,Azure Cloud,100,41
+Consultant_1055,Azure Cloud,93,45
+Consultant_1056,NLP,103,5
+Consultant_1057,Azure Cloud,220,39
+Consultant_1058,MLOps,164,18
+Consultant_1059,Optimization,99,28
+Consultant_1060,Computer Vision,208,40
+Consultant_1061,Azure Cloud,138,21
+Consultant_1062,Computer Vision,104,28
+Consultant_1063,MLOps,182,44
+Consultant_1064,MLOps,179,33
+Consultant_1065,MLOps,134,27
+Consultant_1066,Data Engineering,202,42
+Consultant_1067,Data Engineering,82,20
+Consultant_1068,MLOps,95,38
+Consultant_1069,MLOps,250,25
+Consultant_1070,Computer Vision,225,30
+Consultant_1071,NLP,119,44
+Consultant_1072,Computer Vision,134,13
+Consultant_1073,Optimization,129,12
+Consultant_1074,MLOps,225,25
+Consultant_1075,Azure Cloud,173,20
+Consultant_1076,Azure Cloud,121,33
+Consultant_1077,Data Engineering,87,5
+Consultant_1078,MLOps,149,34
+Consultant_1079,Azure Cloud,121,20
+Consultant_1080,Data Engineering,202,39
+Consultant_1081,Computer Vision,117,20
+Consultant_1082,Optimization,216,5
+Consultant_1083,Azure Cloud,248,28
+Consultant_1084,Computer Vision,97,42
+Consultant_1085,Data Engineering,180,33
+Consultant_1086,NLP,209,22
+Consultant_1087,Optimization,210,17
+Consultant_1088,NLP,174,41
+Consultant_1089,Computer Vision,247,36
+Consultant_1090,Computer Vision,123,11
+Consultant_1091,Data Engineering,220,29
+Consultant_1092,MLOps,193,36
+Consultant_1093,NLP,144,40
+Consultant_1094,Optimization,211,17
+Consultant_1095,Optimization,86,28
+Consultant_1096,Data Engineering,173,17
+Consultant_1097,MLOps,125,31
+Consultant_1098,Data Engineering,223,31
+Consultant_1099,Azure Cloud,116,30
+Consultant_1100,Data Engineering,126,21
+Consultant_1101,Data Engineering,247,7
+Consultant_1102,NLP,156,38
+Consultant_1103,Data Engineering,143,9
+Consultant_1104,MLOps,225,31
+Consultant_1105,Azure Cloud,124,19
+Consultant_1106,Data Engineering,227,13
+Consultant_1107,MLOps,99,26
+Consultant_1108,NLP,208,21
+Consultant_1109,Optimization,155,28
+Consultant_1110,NLP,109,34
+Consultant_1111,Azure Cloud,175,39
+Consultant_1112,Data Engineering,195,9
+Consultant_1113,Optimization,224,11
+Consultant_1114,NLP,234,27
+Consultant_1115,Computer Vision,105,39
+Consultant_1116,NLP,242,25
+Consultant_1117,MLOps,122,39
+Consultant_1118,Data Engineering,239,21
+Consultant_1119,NLP,189,14
+Consultant_1120,NLP,242,20
+Consultant_1121,MLOps,242,5
+Consultant_1122,Computer Vision,129,17
+Consultant_1123,NLP,229,34
+Consultant_1124,Azure Cloud,139,21
+Consultant_1125,Data Engineering,133,15
+Consultant_1126,NLP,139,34
+Consultant_1127,Azure Cloud,240,35
+Consultant_1128,Data Engineering,112,13
+Consultant_1129,Computer Vision,132,6
+Consultant_1130,Azure Cloud,211,43
+Consultant_1131,Azure Cloud,205,17
+Consultant_1132,Data Engineering,166,6
+Consultant_1133,Optimization,82,5
+Consultant_1134,Azure Cloud,207,18
+Consultant_1135,Data Engineering,152,26
+Consultant_1136,Data Engineering,189,33
+Consultant_1137,NLP,119,7
+Consultant_1138,Computer Vision,120,20
+Consultant_1139,NLP,240,19
+Consultant_1140,Azure Cloud,119,14
+Consultant_1141,Data Engineering,200,24
+Consultant_1142,NLP,199,17
+Consultant_1143,NLP,139,39
+Consultant_1144,MLOps,218,14
+Consultant_1145,NLP,138,13
+Consultant_1146,Data Engineering,192,38
+Consultant_1147,MLOps,134,42
+Consultant_1148,Computer Vision,197,35
+Consultant_1149,NLP,118,30
+Consultant_1150,Data Engineering,188,29
+Consultant_1151,Azure Cloud,96,31
+Consultant_1152,Azure Cloud,89,9
+Consultant_1153,MLOps,165,38
+Consultant_1154,NLP,247,44
+Consultant_1155,NLP,194,32
+Consultant_1156,MLOps,187,30
+Consultant_1157,MLOps,228,8
+Consultant_1158,MLOps,172,20
+Consultant_1159,NLP,91,44
+Consultant_1160,Data Engineering,130,9
+Consultant_1161,NLP,230,35
+Consultant_1162,MLOps,230,21
+Consultant_1163,Azure Cloud,162,43
+Consultant_1164,Computer Vision,225,25
+Consultant_1165,NLP,107,18
+Consultant_1166,NLP,144,8
+Consultant_1167,NLP,122,9
+Consultant_1168,Computer Vision,180,28
+Consultant_1169,NLP,150,32
+Consultant_1170,MLOps,240,40
+Consultant_1171,Optimization,177,40
+Consultant_1172,Computer Vision,93,22
+Consultant_1173,Data Engineering,246,24
+Consultant_1174,Data Engineering,233,25
+Consultant_1175,Azure Cloud,243,32
+Consultant_1176,MLOps,221,28
+Consultant_1177,Azure Cloud,125,42
+Consultant_1178,Optimization,194,25
+Consultant_1179,Computer Vision,176,22
+Consultant_1180,NLP,85,8
+Consultant_1181,NLP,152,17
+Consultant_1182,Computer Vision,93,18
+Consultant_1183,Computer Vision,226,13
+Consultant_1184,Computer Vision,188,42
+Consultant_1185,Azure Cloud,200,24
+Consultant_1186,Data Engineering,135,17
+Consultant_1187,MLOps,247,29
+Consultant_1188,MLOps,135,26
+Consultant_1189,NLP,240,31
+Consultant_1190,MLOps,197,23
+Consultant_1191,Azure Cloud,172,45
+Consultant_1192,MLOps,148,31
+Consultant_1193,NLP,184,18
+Consultant_1194,Azure Cloud,188,15
+Consultant_1195,Azure Cloud,212,28
+Consultant_1196,Azure Cloud,135,27
+Consultant_1197,Data Engineering,160,36
+Consultant_1198,Computer Vision,112,23
+Consultant_1199,Data Engineering,169,40
+Consultant_1200,Computer Vision,127,44
+Consultant_1201,NLP,223,27
+Consultant_1202,NLP,228,17
+Consultant_1203,NLP,235,17
+Consultant_1204,Data Engineering,218,9
+Consultant_1205,Computer Vision,191,17
+Consultant_1206,Computer Vision,244,25
+Consultant_1207,Data Engineering,167,33
+Consultant_1208,Azure Cloud,167,20
+Consultant_1209,NLP,133,17
+Consultant_1210,Computer Vision,209,5
+Consultant_1211,NLP,101,14
+Consultant_1212,NLP,239,42
+Consultant_1213,MLOps,183,45
+Consultant_1214,Azure Cloud,181,43
+Consultant_1215,Azure Cloud,211,24
+Consultant_1216,Computer Vision,211,13
+Consultant_1217,Azure Cloud,249,34
+Consultant_1218,MLOps,84,29
+Consultant_1219,MLOps,153,45
+Consultant_1220,Data Engineering,224,14
+Consultant_1221,Optimization,139,39
+Consultant_1222,MLOps,195,16
+Consultant_1223,Computer Vision,171,12
+Consultant_1224,Optimization,83,32
+Consultant_1225,Optimization,91,23
+Consultant_1226,Optimization,105,39
+Consultant_1227,Data Engineering,231,14
+Consultant_1228,Data Engineering,204,7
+Consultant_1229,Azure Cloud,220,10
+Consultant_1230,Data Engineering,227,9
+Consultant_1231,Data Engineering,121,12
+Consultant_1232,MLOps,84,23
+Consultant_1233,Data Engineering,236,10
+Consultant_1234,NLP,119,44
+Consultant_1235,MLOps,126,11
+Consultant_1236,Computer Vision,133,6
+Consultant_1237,NLP,227,6
+Consultant_1238,Optimization,233,38
+Consultant_1239,Data Engineering,156,24
+Consultant_1240,Data Engineering,100,25
+Consultant_1241,MLOps,176,19
+Consultant_1242,Optimization,113,7
+Consultant_1243,Data Engineering,153,27
+Consultant_1244,NLP,128,38
+Consultant_1245,Data Engineering,245,14
+Consultant_1246,MLOps,104,21
+Consultant_1247,MLOps,128,29
+Consultant_1248,MLOps,129,23
+Consultant_1249,Optimization,198,25
+Consultant_1250,Azure Cloud,130,45
+Consultant_1251,Data Engineering,150,29
+Consultant_1252,Optimization,209,36
+Consultant_1253,Azure Cloud,160,24
+Consultant_1254,Data Engineering,145,12
+Consultant_1255,NLP,113,40
+Consultant_1256,Azure Cloud,86,9
+Consultant_1257,Azure Cloud,237,30
+Consultant_1258,Azure Cloud,228,13
+Consultant_1259,Optimization,177,36
+Consultant_1260,Computer Vision,238,39
+Consultant_1261,NLP,88,33
+Consultant_1262,Azure Cloud,115,21
+Consultant_1263,Azure Cloud,134,7
+Consultant_1264,Optimization,185,26
+Consultant_1265,Azure Cloud,247,43
+Consultant_1266,Data Engineering,143,17
+Consultant_1267,Azure Cloud,212,28
+Consultant_1268,MLOps,118,26
+Consultant_1269,NLP,248,19
+Consultant_1270,Computer Vision,248,9
+Consultant_1271,Azure Cloud,130,25
+Consultant_1272,NLP,171,40
+Consultant_1273,Optimization,160,15
+Consultant_1274,MLOps,90,23
+Consultant_1275,Azure Cloud,230,44
+Consultant_1276,MLOps,209,16
+Consultant_1277,Optimization,106,18
+Consultant_1278,Computer Vision,132,21
+Consultant_1279,Optimization,155,5
+Consultant_1280,MLOps,199,41
+Consultant_1281,Data Engineering,174,45
+Consultant_1282,Azure Cloud,240,27
+Consultant_1283,Optimization,244,9
+Consultant_1284,NLP,88,11
+Consultant_1285,MLOps,224,34
+Consultant_1286,MLOps,122,10
+Consultant_1287,MLOps,214,43
+Consultant_1288,Azure Cloud,203,16
+Consultant_1289,Computer Vision,102,39
+Consultant_1290,MLOps,152,21
+Consultant_1291,Data Engineering,236,21
+Consultant_1292,Azure Cloud,111,12
+Consultant_1293,Data Engineering,110,44
+Consultant_1294,MLOps,241,38
+Consultant_1295,Azure Cloud,170,7
+Consultant_1296,Azure Cloud,84,16
+Consultant_1297,Optimization,244,18
+Consultant_1298,Data Engineering,216,40
+Consultant_1299,Azure Cloud,181,14
+Consultant_1300,Data Engineering,187,36
+Consultant_1301,Azure Cloud,225,26
+Consultant_1302,Optimization,189,11
+Consultant_1303,Data Engineering,129,37
+Consultant_1304,Data Engineering,247,13
+Consultant_1305,NLP,199,44
+Consultant_1306,MLOps,140,45
+Consultant_1307,NLP,249,6
+Consultant_1308,Optimization,250,25
+Consultant_1309,Azure Cloud,123,23
+Consultant_1310,Optimization,216,28
+Consultant_1311,MLOps,187,38
+Consultant_1312,NLP,241,43
+Consultant_1313,Computer Vision,118,11
+Consultant_1314,Optimization,152,33
+Consultant_1315,MLOps,198,14
+Consultant_1316,Computer Vision,231,45
+Consultant_1317,Optimization,201,35
+Consultant_1318,Optimization,197,41
+Consultant_1319,Data Engineering,167,30
+Consultant_1320,Azure Cloud,208,44
+Consultant_1321,Data Engineering,226,8
+Consultant_1322,Optimization,109,31
+Consultant_1323,MLOps,197,19
+Consultant_1324,Azure Cloud,118,35
+Consultant_1325,Azure Cloud,168,18
+Consultant_1326,MLOps,178,43
+Consultant_1327,Optimization,245,6
+Consultant_1328,Computer Vision,242,32
+Consultant_1329,MLOps,183,32
+Consultant_1330,MLOps,175,8
+Consultant_1331,Computer Vision,168,21
+Consultant_1332,Data Engineering,182,38
+Consultant_1333,Optimization,185,9
+Consultant_1334,Computer Vision,224,17
+Consultant_1335,Azure Cloud,147,13
+Consultant_1336,Computer Vision,211,36
+Consultant_1337,Optimization,221,44
+Consultant_1338,NLP,108,32
+Consultant_1339,NLP,182,14
+Consultant_1340,MLOps,112,6
+Consultant_1341,Optimization,218,38
+Consultant_1342,MLOps,138,9
+Consultant_1343,MLOps,91,30
+Consultant_1344,MLOps,132,39
+Consultant_1345,Azure Cloud,228,31
+Consultant_1346,MLOps,214,30
+Consultant_1347,Computer Vision,184,35
+Consultant_1348,Computer Vision,148,9
+Consultant_1349,MLOps,213,6
+Consultant_1350,Optimization,228,19
+Consultant_1351,Azure Cloud,172,9
+Consultant_1352,Computer Vision,143,28
+Consultant_1353,Data Engineering,140,44
+Consultant_1354,Optimization,143,28
+Consultant_1355,Optimization,172,33
+Consultant_1356,Optimization,244,32
+Consultant_1357,Data Engineering,184,37
+Consultant_1358,Optimization,146,34
+Consultant_1359,Data Engineering,201,39
+Consultant_1360,Computer Vision,193,8
+Consultant_1361,Data Engineering,133,44
+Consultant_1362,Data Engineering,145,41
+Consultant_1363,Optimization,145,13
+Consultant_1364,Computer Vision,222,36
+Consultant_1365,MLOps,139,30
+Consultant_1366,MLOps,212,11
+Consultant_1367,NLP,168,36
+Consultant_1368,Optimization,199,29
+Consultant_1369,Computer Vision,239,27
+Consultant_1370,NLP,249,7
+Consultant_1371,NLP,82,45
+Consultant_1372,Optimization,117,39
+Consultant_1373,Azure Cloud,90,14
+Consultant_1374,NLP,232,13
+Consultant_1375,Computer Vision,241,23
+Consultant_1376,Computer Vision,118,21
+Consultant_1377,Optimization,119,22
+Consultant_1378,Data Engineering,236,12
+Consultant_1379,Data Engineering,216,44
+Consultant_1380,Computer Vision,88,6
+Consultant_1381,NLP,94,42
+Consultant_1382,Optimization,160,30
+Consultant_1383,Data Engineering,175,11
+Consultant_1384,Computer Vision,128,26
+Consultant_1385,Optimization,92,9
+Consultant_1386,Optimization,85,5
+Consultant_1387,MLOps,179,7
+Consultant_1388,Data Engineering,207,21
+Consultant_1389,Azure Cloud,171,44
+Consultant_1390,Computer Vision,85,35
+Consultant_1391,Computer Vision,96,13
+Consultant_1392,Computer Vision,184,43
+Consultant_1393,NLP,217,5
+Consultant_1394,Data Engineering,133,38
+Consultant_1395,Azure Cloud,217,18
+Consultant_1396,NLP,144,38
+Consultant_1397,Optimization,109,43
+Consultant_1398,Computer Vision,224,26
+Consultant_1399,NLP,90,34
+Consultant_1400,Data Engineering,155,9
+Consultant_1401,Optimization,195,27
+Consultant_1402,Computer Vision,213,31
+Consultant_1403,Optimization,125,12
+Consultant_1404,Azure Cloud,95,7
+Consultant_1405,Optimization,241,13
+Consultant_1406,NLP,132,20
+Consultant_1407,NLP,241,28
+Consultant_1408,Optimization,132,29
+Consultant_1409,Data Engineering,102,30
+Consultant_1410,Computer Vision,191,12
+Consultant_1411,Optimization,85,40
+Consultant_1412,Computer Vision,95,38
+Consultant_1413,Data Engineering,225,5
+Consultant_1414,Azure Cloud,213,43
+Consultant_1415,Optimization,85,6
+Consultant_1416,Data Engineering,167,19
+Consultant_1417,Computer Vision,105,15
+Consultant_1418,Optimization,86,15
+Consultant_1419,NLP,239,41
+Consultant_1420,NLP,168,25
+Consultant_1421,Azure Cloud,235,45
+Consultant_1422,Optimization,100,7
+Consultant_1423,Computer Vision,222,33
+Consultant_1424,Computer Vision,134,30
+Consultant_1425,Data Engineering,116,16
+Consultant_1426,Computer Vision,128,24
+Consultant_1427,Azure Cloud,122,39
+Consultant_1428,Optimization,132,13
+Consultant_1429,MLOps,123,25
+Consultant_1430,Data Engineering,83,33
+Consultant_1431,Optimization,211,12
+Consultant_1432,Data Engineering,155,11
+Consultant_1433,Computer Vision,136,13
+Consultant_1434,Data Engineering,84,43
+Consultant_1435,Computer Vision,119,5
+Consultant_1436,Optimization,107,15
+Consultant_1437,MLOps,206,29
+Consultant_1438,MLOps,137,8
+Consultant_1439,Azure Cloud,176,32
+Consultant_1440,MLOps,139,34
+Consultant_1441,Data Engineering,175,29
+Consultant_1442,NLP,213,17
+Consultant_1443,Data Engineering,128,15
+Consultant_1444,Data Engineering,122,12
+Consultant_1445,Optimization,155,18
+Consultant_1446,Computer Vision,232,45
+Consultant_1447,Azure Cloud,203,23
+Consultant_1448,Data Engineering,93,7
+Consultant_1449,Data Engineering,94,40
+Consultant_1450,MLOps,118,37
+Consultant_1451,NLP,115,6
+Consultant_1452,NLP,241,38
+Consultant_1453,Data Engineering,126,30
+Consultant_1454,MLOps,110,30
+Consultant_1455,Azure Cloud,94,26
+Consultant_1456,Azure Cloud,169,38
+Consultant_1457,Optimization,140,14
+Consultant_1458,Data Engineering,169,5
+Consultant_1459,Azure Cloud,159,33
+Consultant_1460,Azure Cloud,169,38
+Consultant_1461,Azure Cloud,231,6
+Consultant_1462,Data Engineering,201,45
+Consultant_1463,Computer Vision,108,36
+Consultant_1464,Computer Vision,119,42
+Consultant_1465,Azure Cloud,197,9
+Consultant_1466,Azure Cloud,119,37
+Consultant_1467,Azure Cloud,176,8
+Consultant_1468,MLOps,90,28
+Consultant_1469,Optimization,199,6
+Consultant_1470,Azure Cloud,181,5
+Consultant_1471,Computer Vision,112,18
+Consultant_1472,Azure Cloud,239,7
+Consultant_1473,MLOps,89,15
+Consultant_1474,Computer Vision,189,24
+Consultant_1475,Data Engineering,235,10
+Consultant_1476,Azure Cloud,89,16
+Consultant_1477,MLOps,230,20
+Consultant_1478,Data Engineering,130,16
+Consultant_1479,MLOps,159,6
+Consultant_1480,Azure Cloud,228,30
+Consultant_1481,Azure Cloud,124,12
+Consultant_1482,Azure Cloud,143,34
+Consultant_1483,NLP,110,9
+Consultant_1484,MLOps,241,43
+Consultant_1485,MLOps,248,23
+Consultant_1486,NLP,112,41
+Consultant_1487,Computer Vision,172,34
+Consultant_1488,Data Engineering,217,36
+Consultant_1489,Computer Vision,149,9
+Consultant_1490,NLP,232,37
+Consultant_1491,Azure Cloud,249,38
+Consultant_1492,Data Engineering,199,5
+Consultant_1493,NLP,189,6
+Consultant_1494,NLP,159,43
+Consultant_1495,MLOps,107,19
+Consultant_1496,Computer Vision,241,15
+Consultant_1497,Azure Cloud,195,8
+Consultant_1498,Optimization,157,17
+Consultant_1499,NLP,197,45
+Consultant_1500,Data Engineering,143,30
+Consultant_1501,NLP,142,45
+Consultant_1502,Azure Cloud,112,5
+Consultant_1503,Optimization,190,33
+Consultant_1504,Optimization,210,23
+Consultant_1505,Azure Cloud,219,9
+Consultant_1506,Optimization,168,19
+Consultant_1507,Azure Cloud,234,36
+Consultant_1508,Optimization,175,22
+Consultant_1509,NLP,234,25
+Consultant_1510,MLOps,199,26
+Consultant_1511,Data Engineering,244,18
+Consultant_1512,Computer Vision,245,13
+Consultant_1513,Azure Cloud,84,35
+Consultant_1514,Computer Vision,177,26
+Consultant_1515,Data Engineering,122,28
+Consultant_1516,Data Engineering,80,11
+Consultant_1517,Computer Vision,229,34
+Consultant_1518,Computer Vision,220,18
+Consultant_1519,Computer Vision,104,6
+Consultant_1520,Computer Vision,90,9
+Consultant_1521,Azure Cloud,144,21
+Consultant_1522,MLOps,146,35
+Consultant_1523,NLP,105,14
+Consultant_1524,Optimization,184,7
+Consultant_1525,Azure Cloud,81,26
+Consultant_1526,Computer Vision,193,15
+Consultant_1527,MLOps,208,26
+Consultant_1528,MLOps,128,36
+Consultant_1529,Data Engineering,113,42
+Consultant_1530,Data Engineering,177,30
+Consultant_1531,Optimization,108,35
+Consultant_1532,Optimization,246,10
+Consultant_1533,Computer Vision,145,31
+Consultant_1534,Azure Cloud,101,35
+Consultant_1535,Computer Vision,120,29
+Consultant_1536,NLP,228,5
+Consultant_1537,Computer Vision,230,37
+Consultant_1538,Computer Vision,122,29
+Consultant_1539,Azure Cloud,162,8
+Consultant_1540,Azure Cloud,240,33
+Consultant_1541,Computer Vision,112,43
+Consultant_1542,Optimization,108,16
+Consultant_1543,NLP,156,30
+Consultant_1544,Data Engineering,192,42
+Consultant_1545,Azure Cloud,131,12
+Consultant_1546,Optimization,117,20
+Consultant_1547,Computer Vision,170,28
+Consultant_1548,Azure Cloud,94,33
+Consultant_1549,MLOps,125,12
+Consultant_1550,Optimization,119,18
+Consultant_1551,Optimization,125,24
+Consultant_1552,Data Engineering,218,41
+Consultant_1553,Optimization,115,14
+Consultant_1554,NLP,163,10
+Consultant_1555,Computer Vision,125,8
+Consultant_1556,MLOps,148,31
+Consultant_1557,Optimization,93,30
+Consultant_1558,Computer Vision,131,16
+Consultant_1559,Data Engineering,218,29
+Consultant_1560,NLP,192,19
+Consultant_1561,NLP,103,23
+Consultant_1562,Data Engineering,130,5
+Consultant_1563,Data Engineering,191,24
+Consultant_1564,NLP,132,43
+Consultant_1565,MLOps,84,9
+Consultant_1566,Optimization,225,28
+Consultant_1567,Data Engineering,183,35
+Consultant_1568,Computer Vision,173,18
+Consultant_1569,NLP,223,25
+Consultant_1570,Azure Cloud,179,39
+Consultant_1571,Computer Vision,230,6
+Consultant_1572,Optimization,143,27
+Consultant_1573,Data Engineering,180,45
+Consultant_1574,Computer Vision,103,32
+Consultant_1575,Optimization,193,35
+Consultant_1576,MLOps,133,30
+Consultant_1577,Optimization,116,39
+Consultant_1578,NLP,239,11
+Consultant_1579,Computer Vision,89,38
+Consultant_1580,Azure Cloud,186,40
+Consultant_1581,Azure Cloud,104,34
+Consultant_1582,Computer Vision,90,5
+Consultant_1583,Computer Vision,135,36
+Consultant_1584,Computer Vision,178,33
+Consultant_1585,Data Engineering,101,25
+Consultant_1586,Computer Vision,140,18
+Consultant_1587,Optimization,198,25
+Consultant_1588,Computer Vision,85,14
+Consultant_1589,Computer Vision,214,35
+Consultant_1590,Azure Cloud,171,19
+Consultant_1591,Azure Cloud,247,14
+Consultant_1592,Azure Cloud,231,27
+Consultant_1593,Azure Cloud,132,18
+Consultant_1594,Azure Cloud,139,36
+Consultant_1595,MLOps,219,10
+Consultant_1596,Computer Vision,246,45
+Consultant_1597,NLP,95,5
+Consultant_1598,NLP,147,32
+Consultant_1599,Data Engineering,234,13
+Consultant_1600,MLOps,127,30
+Consultant_1601,Optimization,246,6
+Consultant_1602,Data Engineering,227,19
+Consultant_1603,MLOps,144,25
+Consultant_1604,Optimization,200,27
+Consultant_1605,Computer Vision,210,9
+Consultant_1606,MLOps,135,18
+Consultant_1607,Computer Vision,129,7
+Consultant_1608,MLOps,106,38
+Consultant_1609,MLOps,113,30
+Consultant_1610,MLOps,165,31
+Consultant_1611,Computer Vision,192,23
+Consultant_1612,MLOps,138,19
+Consultant_1613,Azure Cloud,95,29
+Consultant_1614,Data Engineering,248,34
+Consultant_1615,Optimization,116,41
+Consultant_1616,Azure Cloud,232,34
+Consultant_1617,Azure Cloud,203,8
+Consultant_1618,NLP,237,19
+Consultant_1619,NLP,134,32
+Consultant_1620,NLP,98,28
+Consultant_1621,NLP,171,23
+Consultant_1622,Data Engineering,165,14
+Consultant_1623,Azure Cloud,173,35
+Consultant_1624,Optimization,183,45
+Consultant_1625,Azure Cloud,224,36
+Consultant_1626,Computer Vision,157,22
+Consultant_1627,Optimization,96,25
+Consultant_1628,Data Engineering,193,12
+Consultant_1629,Azure Cloud,122,29
+Consultant_1630,Optimization,161,40
+Consultant_1631,NLP,246,24
+Consultant_1632,Computer Vision,212,19
+Consultant_1633,Data Engineering,173,20
+Consultant_1634,Data Engineering,103,20
+Consultant_1635,MLOps,137,30
+Consultant_1636,Computer Vision,240,44
+Consultant_1637,Data Engineering,197,42
+Consultant_1638,Optimization,101,21
+Consultant_1639,NLP,153,24
+Consultant_1640,Optimization,247,27
+Consultant_1641,Optimization,217,26
+Consultant_1642,Azure Cloud,157,6
+Consultant_1643,Computer Vision,135,28
+Consultant_1644,NLP,102,34
+Consultant_1645,Data Engineering,206,41
+Consultant_1646,MLOps,225,20
+Consultant_1647,MLOps,241,31
+Consultant_1648,NLP,245,44
+Consultant_1649,Computer Vision,174,32
+Consultant_1650,Data Engineering,107,13
+Consultant_1651,Optimization,170,32
+Consultant_1652,Computer Vision,206,19
+Consultant_1653,MLOps,88,22
+Consultant_1654,Computer Vision,237,20
+Consultant_1655,Optimization,163,32
+Consultant_1656,Computer Vision,227,17
+Consultant_1657,MLOps,245,6
+Consultant_1658,Azure Cloud,135,28
+Consultant_1659,Optimization,128,14
+Consultant_1660,Azure Cloud,151,33
+Consultant_1661,MLOps,229,41
+Consultant_1662,Optimization,196,15
+Consultant_1663,MLOps,238,9
+Consultant_1664,Optimization,161,41
+Consultant_1665,NLP,86,14
+Consultant_1666,MLOps,200,22
+Consultant_1667,MLOps,213,21
+Consultant_1668,NLP,225,25
+Consultant_1669,Azure Cloud,180,9
+Consultant_1670,Optimization,200,41
+Consultant_1671,NLP,166,30
+Consultant_1672,Azure Cloud,192,17
+Consultant_1673,Data Engineering,244,40
+Consultant_1674,Optimization,248,28
+Consultant_1675,Data Engineering,112,29
+Consultant_1676,Azure Cloud,86,38
+Consultant_1677,MLOps,146,21
+Consultant_1678,Computer Vision,197,12
+Consultant_1679,Data Engineering,175,41
+Consultant_1680,NLP,124,11
+Consultant_1681,Azure Cloud,139,26
+Consultant_1682,Azure Cloud,144,40
+Consultant_1683,NLP,151,35
+Consultant_1684,NLP,88,45
+Consultant_1685,Optimization,177,14
+Consultant_1686,Optimization,94,20
+Consultant_1687,Computer Vision,212,16
+Consultant_1688,Optimization,123,13
+Consultant_1689,Data Engineering,84,12
+Consultant_1690,Computer Vision,236,20
+Consultant_1691,Azure Cloud,106,19
+Consultant_1692,Azure Cloud,141,11
+Consultant_1693,MLOps,111,41
+Consultant_1694,Optimization,114,18
+Consultant_1695,Data Engineering,185,27
+Consultant_1696,Optimization,130,31
+Consultant_1697,Computer Vision,90,5
+Consultant_1698,NLP,139,11
+Consultant_1699,Computer Vision,136,26
+Consultant_1700,Computer Vision,249,24
+Consultant_1701,Computer Vision,212,20
+Consultant_1702,MLOps,185,25
+Consultant_1703,MLOps,210,13
+Consultant_1704,NLP,117,11
+Consultant_1705,Computer Vision,237,37
+Consultant_1706,Optimization,185,37
+Consultant_1707,Azure Cloud,218,33
+Consultant_1708,Data Engineering,159,34
+Consultant_1709,Data Engineering,223,23
+Consultant_1710,Computer Vision,199,15
+Consultant_1711,MLOps,123,27
+Consultant_1712,Azure Cloud,201,20
+Consultant_1713,MLOps,110,36
+Consultant_1714,Optimization,228,20
+Consultant_1715,Azure Cloud,128,31
+Consultant_1716,NLP,86,5
+Consultant_1717,Optimization,159,18
+Consultant_1718,MLOps,237,24
+Consultant_1719,MLOps,132,36
+Consultant_1720,Azure Cloud,109,35
+Consultant_1721,NLP,231,30
+Consultant_1722,Optimization,174,24
+Consultant_1723,Data Engineering,100,37
+Consultant_1724,Data Engineering,212,25
+Consultant_1725,MLOps,236,42
+Consultant_1726,Azure Cloud,151,39
+Consultant_1727,NLP,87,41
+Consultant_1728,MLOps,177,41
+Consultant_1729,MLOps,161,29
+Consultant_1730,Data Engineering,222,22
+Consultant_1731,MLOps,204,27
+Consultant_1732,NLP,115,43
+Consultant_1733,NLP,224,18
+Consultant_1734,MLOps,205,36
+Consultant_1735,MLOps,250,40
+Consultant_1736,Data Engineering,125,17
+Consultant_1737,NLP,190,24
+Consultant_1738,NLP,167,29
+Consultant_1739,Optimization,147,21
+Consultant_1740,Computer Vision,149,39
+Consultant_1741,Computer Vision,203,18
+Consultant_1742,Optimization,153,13
+Consultant_1743,MLOps,131,38
+Consultant_1744,Optimization,193,18
+Consultant_1745,Azure Cloud,111,23
+Consultant_1746,Azure Cloud,99,25
+Consultant_1747,NLP,153,43
+Consultant_1748,Computer Vision,85,16
+Consultant_1749,Data Engineering,234,40
+Consultant_1750,Optimization,170,29
+Consultant_1751,Computer Vision,163,39
+Consultant_1752,Azure Cloud,249,7
+Consultant_1753,Azure Cloud,179,25
+Consultant_1754,Computer Vision,108,41
+Consultant_1755,Optimization,229,12
+Consultant_1756,Computer Vision,121,35
+Consultant_1757,NLP,244,45
+Consultant_1758,MLOps,157,11
+Consultant_1759,Data Engineering,225,6
+Consultant_1760,Optimization,145,34
+Consultant_1761,Computer Vision,88,45
+Consultant_1762,MLOps,122,12
+Consultant_1763,Data Engineering,120,34
+Consultant_1764,MLOps,192,39
+Consultant_1765,Computer Vision,151,30
+Consultant_1766,MLOps,207,21
+Consultant_1767,NLP,229,44
+Consultant_1768,MLOps,179,33
+Consultant_1769,Azure Cloud,217,17
+Consultant_1770,Optimization,105,45
+Consultant_1771,NLP,203,5
+Consultant_1772,NLP,160,41
+Consultant_1773,MLOps,187,12
+Consultant_1774,Azure Cloud,230,35
+Consultant_1775,Data Engineering,201,33
+Consultant_1776,Azure Cloud,206,23
+Consultant_1777,Optimization,233,27
+Consultant_1778,MLOps,187,16
+Consultant_1779,MLOps,217,10
+Consultant_1780,Optimization,120,37
+Consultant_1781,Azure Cloud,191,33
+Consultant_1782,Azure Cloud,151,19
+Consultant_1783,Azure Cloud,232,22
+Consultant_1784,Data Engineering,141,19
+Consultant_1785,NLP,243,11
+Consultant_1786,Azure Cloud,97,11
+Consultant_1787,Optimization,202,45
+Consultant_1788,Optimization,130,11
+Consultant_1789,Azure Cloud,183,10
+Consultant_1790,Azure Cloud,98,20
+Consultant_1791,Optimization,243,22
+Consultant_1792,Data Engineering,125,5
+Consultant_1793,Data Engineering,214,26
+Consultant_1794,Data Engineering,229,18
+Consultant_1795,Optimization,125,28
+Consultant_1796,Azure Cloud,82,8
+Consultant_1797,Azure Cloud,172,17
+Consultant_1798,Data Engineering,222,32
+Consultant_1799,Computer Vision,171,34
+Consultant_1800,MLOps,230,21
+Consultant_1801,MLOps,124,37
+Consultant_1802,Computer Vision,206,28
+Consultant_1803,NLP,229,13
+Consultant_1804,Azure Cloud,234,20
+Consultant_1805,Optimization,238,23
+Consultant_1806,Computer Vision,202,35
+Consultant_1807,MLOps,215,33
+Consultant_1808,Computer Vision,142,5
+Consultant_1809,NLP,83,26
+Consultant_1810,Computer Vision,154,10
+Consultant_1811,Azure Cloud,81,45
+Consultant_1812,Optimization,101,15
+Consultant_1813,MLOps,117,5
+Consultant_1814,Azure Cloud,101,23
+Consultant_1815,MLOps,234,32
+Consultant_1816,NLP,200,6
+Consultant_1817,MLOps,103,32
+Consultant_1818,Data Engineering,193,29
+Consultant_1819,Computer Vision,120,6
+Consultant_1820,NLP,188,11
+Consultant_1821,Data Engineering,188,35
+Consultant_1822,NLP,226,35
+Consultant_1823,Data Engineering,194,23
+Consultant_1824,Computer Vision,248,32
+Consultant_1825,Azure Cloud,202,31
+Consultant_1826,Optimization,162,13
+Consultant_1827,Computer Vision,191,26
+Consultant_1828,Data Engineering,202,43
+Consultant_1829,Optimization,93,19
+Consultant_1830,MLOps,203,14
+Consultant_1831,Optimization,182,45
+Consultant_1832,Data Engineering,133,10
+Consultant_1833,Computer Vision,244,34
+Consultant_1834,Computer Vision,104,37
+Consultant_1835,NLP,197,19
+Consultant_1836,Computer Vision,174,25
+Consultant_1837,Azure Cloud,112,14
+Consultant_1838,Optimization,152,20
+Consultant_1839,Azure Cloud,157,32
+Consultant_1840,MLOps,136,42
+Consultant_1841,Optimization,242,41
+Consultant_1842,Azure Cloud,115,34
+Consultant_1843,Optimization,250,34
+Consultant_1844,NLP,214,32
+Consultant_1845,Azure Cloud,244,16
+Consultant_1846,Optimization,201,13
+Consultant_1847,Optimization,169,34
+Consultant_1848,Azure Cloud,201,44
+Consultant_1849,NLP,228,12
+Consultant_1850,Computer Vision,117,13
+Consultant_1851,MLOps,242,39
+Consultant_1852,MLOps,221,44
+Consultant_1853,MLOps,102,27
+Consultant_1854,Optimization,123,29
+Consultant_1855,Azure Cloud,215,18
+Consultant_1856,NLP,107,13
+Consultant_1857,Computer Vision,205,30
+Consultant_1858,NLP,130,34
+Consultant_1859,Azure Cloud,210,44
+Consultant_1860,MLOps,233,22
+Consultant_1861,NLP,227,45
+Consultant_1862,Azure Cloud,152,33
+Consultant_1863,Computer Vision,164,33
+Consultant_1864,MLOps,186,28
+Consultant_1865,NLP,208,17
+Consultant_1866,Data Engineering,109,39
+Consultant_1867,NLP,122,28
+Consultant_1868,Data Engineering,82,17
+Consultant_1869,Azure Cloud,188,37
+Consultant_1870,Computer Vision,219,45
+Consultant_1871,Computer Vision,219,32
+Consultant_1872,Data Engineering,185,12
+Consultant_1873,Azure Cloud,225,37
+Consultant_1874,Computer Vision,245,36
+Consultant_1875,NLP,205,36
+Consultant_1876,Data Engineering,191,13
+Consultant_1877,Optimization,210,23
+Consultant_1878,Azure Cloud,208,7
+Consultant_1879,Azure Cloud,83,31
+Consultant_1880,Data Engineering,140,27
+Consultant_1881,Computer Vision,242,20
+Consultant_1882,Data Engineering,226,32
+Consultant_1883,NLP,159,11
+Consultant_1884,Optimization,191,5
+Consultant_1885,Data Engineering,174,16
+Consultant_1886,Optimization,129,43
+Consultant_1887,Data Engineering,96,31
+Consultant_1888,Optimization,190,44
+Consultant_1889,Data Engineering,167,20
+Consultant_1890,NLP,190,15
+Consultant_1891,MLOps,239,23
+Consultant_1892,NLP,143,23
+Consultant_1893,Azure Cloud,208,13
+Consultant_1894,NLP,127,18
+Consultant_1895,Azure Cloud,191,13
+Consultant_1896,NLP,156,7
+Consultant_1897,Data Engineering,81,12
+Consultant_1898,Data Engineering,191,39
+Consultant_1899,Optimization,204,34
+Consultant_1900,Azure Cloud,162,35
+Consultant_1901,MLOps,119,42
+Consultant_1902,Data Engineering,220,13
+Consultant_1903,Computer Vision,222,37
+Consultant_1904,NLP,126,16
+Consultant_1905,Azure Cloud,93,26
+Consultant_1906,MLOps,84,41
+Consultant_1907,MLOps,195,29
+Consultant_1908,Data Engineering,139,39
+Consultant_1909,NLP,226,35
+Consultant_1910,Computer Vision,119,12
+Consultant_1911,NLP,235,29
+Consultant_1912,Optimization,227,35
+Consultant_1913,MLOps,177,37
+Consultant_1914,Data Engineering,100,38
+Consultant_1915,MLOps,97,31
+Consultant_1916,Azure Cloud,189,44
+Consultant_1917,Computer Vision,158,15
+Consultant_1918,Optimization,92,19
+Consultant_1919,Optimization,187,42
+Consultant_1920,NLP,90,27
+Consultant_1921,Azure Cloud,99,17
+Consultant_1922,MLOps,165,28
+Consultant_1923,Data Engineering,104,15
+Consultant_1924,Data Engineering,90,44
+Consultant_1925,Optimization,80,16
+Consultant_1926,Azure Cloud,138,10
+Consultant_1927,Computer Vision,204,35
+Consultant_1928,Computer Vision,140,38
+Consultant_1929,Optimization,106,6
+Consultant_1930,NLP,209,36
+Consultant_1931,NLP,132,18
+Consultant_1932,Optimization,218,6
+Consultant_1933,NLP,122,42
+Consultant_1934,Optimization,109,23
+Consultant_1935,Optimization,229,36
+Consultant_1936,NLP,183,41
+Consultant_1937,MLOps,183,8
+Consultant_1938,Computer Vision,167,20
+Consultant_1939,NLP,172,23
+Consultant_1940,Data Engineering,151,22
+Consultant_1941,Computer Vision,163,45
+Consultant_1942,NLP,144,6
+Consultant_1943,Computer Vision,102,10
+Consultant_1944,Azure Cloud,198,35
+Consultant_1945,Azure Cloud,136,40
+Consultant_1946,MLOps,186,15
+Consultant_1947,Data Engineering,117,19
+Consultant_1948,NLP,109,15
+Consultant_1949,NLP,235,45
+Consultant_1950,NLP,248,13
+Consultant_1951,Computer Vision,115,15
+Consultant_1952,Optimization,227,27
+Consultant_1953,MLOps,187,36
+Consultant_1954,Optimization,174,20
+Consultant_1955,NLP,85,35
+Consultant_1956,Azure Cloud,113,12
+Consultant_1957,Data Engineering,174,26
+Consultant_1958,Data Engineering,185,42
+Consultant_1959,Data Engineering,105,25
+Consultant_1960,Data Engineering,153,40
+Consultant_1961,NLP,160,15
+Consultant_1962,Optimization,234,28
+Consultant_1963,NLP,239,6
+Consultant_1964,NLP,153,36
+Consultant_1965,Computer Vision,198,22
+Consultant_1966,Azure Cloud,187,34
+Consultant_1967,NLP,201,17
+Consultant_1968,NLP,206,34
+Consultant_1969,NLP,176,23
+Consultant_1970,Optimization,233,20
+Consultant_1971,Data Engineering,93,45
+Consultant_1972,NLP,234,25
+Consultant_1973,NLP,119,27
+Consultant_1974,Azure Cloud,161,5
+Consultant_1975,NLP,91,13
+Consultant_1976,Optimization,106,40
+Consultant_1977,Computer Vision,199,33
+Consultant_1978,Data Engineering,149,17
+Consultant_1979,Data Engineering,178,22
+Consultant_1980,NLP,186,35
+Consultant_1981,MLOps,161,31
+Consultant_1982,Azure Cloud,113,29
+Consultant_1983,NLP,112,12
+Consultant_1984,MLOps,162,42
+Consultant_1985,NLP,131,7
+Consultant_1986,Optimization,165,25
+Consultant_1987,Azure Cloud,218,36
+Consultant_1988,MLOps,166,15
+Consultant_1989,Optimization,101,26
+Consultant_1990,Computer Vision,235,44
+Consultant_1991,Data Engineering,174,11
+Consultant_1992,NLP,85,41
+Consultant_1993,Data Engineering,92,27
+Consultant_1994,Data Engineering,101,26
+Consultant_1995,Optimization,86,34
+Consultant_1996,Optimization,116,33
+Consultant_1997,NLP,82,31
+Consultant_1998,Optimization,163,13
+Consultant_1999,NLP,97,36
