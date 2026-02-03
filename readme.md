@@ -1,5 +1,5 @@
 
-# OptiTask AI: Enterprise Resource Allocation Engine
+# [OptiTask AI: Enterprise Resource Allocation Engine](https://optitask-ai.streamlit.app/)
 
 ## 🏗️ Project Overview
 
@@ -71,3 +71,4 @@ To satisfy enterprise standards for **Fairness, Transparency, and Accountability
 ## 📈 Impact & Use Case
 
 This system reduces the time spent on manual resource mapping by **90%** while ensuring a **Global Cost Minimum** that is mathematically impossible to achieve consistently through manual human effort.
+
